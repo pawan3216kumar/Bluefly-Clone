@@ -1,0 +1,30 @@
+
+#categorylist{
+    border: 3px solid grey;
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+  }
+
+  #categorylist{
+    height: 500px;
+    width: 100%;
+    
+  }
+  
+  #categorylist>div>img{
+      height: 100px;
+      width: 100px;
+  
+      
+  }
+  
+  #categorylist>div{
+      height: 400px;
+      width: 350px;
+      border: 2px solid black;
+      text-align: center;
+      border-radius: 10px;
+      padding: 10px;
+  }
+  

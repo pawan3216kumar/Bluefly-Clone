@@ -1,0 +1,46 @@
+#heading-container{
+    height: 200px;
+    width: 100%;
+    background-color: brown;
+}
+
+#heading-container1{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+}
+
+#heading-container2{
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+}
+
+#welcome{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+#saleBanner1{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    gap: 200px;
+}
+#newArrival{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+
+}
+
+#saleBanner2{
+    height: 500px;
+    width: 100%;
+    background-color:chartreuse;
+
+}
+
+
